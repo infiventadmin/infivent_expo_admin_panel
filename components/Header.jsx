@@ -18,9 +18,9 @@ const Header = () => {
     <header className="text-gray-600 body-font border  px-10">
       <div className="container flex flex-wrap p-2 flex-col md:flex-row items-center justify-between">
         <Image
-          src="/eventlogo.webp"
-          width={60}
-          height={60}
+          src="/infivent.png"
+          width={150}
+          height={150}
           alt="Reacctor World Expo"
         />
         {/* <Image src={"/RWE.png"} width={195} height={195} alt="Logo" /> */}

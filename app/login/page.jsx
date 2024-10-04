@@ -8,14 +8,14 @@ const Page = () => {
     <>
       <div className="md:hidden">
         <Image
-          src="/eventlogo.webp"
+          src="/infivent.png"
           width={1280}
           height={843}
           alt="Authentication"
           className="block dark:hidden"
         />
         <Image
-          src="/eventlogo.webp"
+          src="/infivent.png"
           width={1280}
           height={843}
           alt="Authentication"
@@ -51,7 +51,12 @@ const Page = () => {
                 height={150}
                 alt="Logo"
               /> */}
-              <Image src={"/RWE.png"} width={150} height={150} alt="Logo" />
+              <Image
+                src={"/infivent.png"}
+                width={150}
+                height={150}
+                alt="Logo"
+              />
             </div>
             <div className="flex flex-col space-y-2 text-center">
               <h1 className="text-2xl font-semibold tracking-tight">

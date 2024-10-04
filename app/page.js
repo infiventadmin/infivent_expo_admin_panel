@@ -47,7 +47,7 @@ const Page = () => {
             <div className=" flex justify-center items-center flex-col gap-1">
               {/* <Image src={"/RWE.png"} width={200} height={200} alt="Logo" /> */}
               <Image
-                src={"/eventlogo.webp"}
+                src={"/infivent.png"}
                 width={150}
                 height={150}
                 alt="Logo"
